@@ -1,5 +1,5 @@
 body {
-  background-color: #2b7ed8;
+  background-color: #0b5ed7;
   min-height: 100vh;
 }
 .container .row img {
@@ -8,6 +8,12 @@ body {
 .row .nomer{
   text-decoration: none;
   display: none;
-  background-color: black;
 
+}
+.text-blue{
+  color:#0b5ed7 ;
+}
+
+.bg-op{
+  background-color: rgba(255, 255, 255, 0.9);
 }
