@@ -5,6 +5,9 @@ body {
 .container .row img {
   max-width: 50%;
 }
-h2{
+.row .nomer{
   text-decoration: none;
+  display: none;
+  background-color: black;
+
 }
