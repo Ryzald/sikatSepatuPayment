@@ -1,0 +1,6 @@
+body {
+  background-color: #2b7ed8;
+}
+.container .row img {
+  max-width: 50%;
+}
